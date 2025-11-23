@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Reading messages</string>
+    <string name="btn_enable_accessibility">Enable Accessibility Service</string>
+    <string name="btn_request_overlay">Request Overlay Permission</string>
+    <string name="accessibility_service_description">Reading Service listens to all events for accessibility demo</string>
+</resources>
